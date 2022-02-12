@@ -1,0 +1,3 @@
+[submodule "mothe-git"]
+	path = mothe-git
+	url = git@github.com:mothe-git/mothe-git.git
